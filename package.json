@@ -1,0 +1,27 @@
+{
+  "name": "curso-js",
+  "version": "1.0.0",
+  "description": "Curso profesional de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfonzojosue/Curso-JS.git"
+  },
+  "keywords": [
+    "platzi",
+    "javascript"
+  ],
+  "author": "Josue Alfonzo <16-00436@usb.ve>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfonzojosue/Curso-JS/issues"
+  },
+  "homepage": "https://github.com/alfonzojosue/Curso-JS#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
