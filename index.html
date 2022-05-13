@@ -24,22 +24,9 @@
 
     </main>
 
-    <script>
-        const video = document.querySelector('video');
-        const button = document.querySelector('button');
+    <script src="./assets/index.js">
+      
 
-        function MediaPlayer(config){
-            this.media = config.el
-        }
-
-        MediaPlayer.prototype.play = function(){
-            video.play();
-        };
-
-        const player = new MediaPlayer({el: video});
-
-        button.onclick = () => player.play();
-     
 
 
     </script>
